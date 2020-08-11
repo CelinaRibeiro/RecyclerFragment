@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/geralt</item>
+        <item>@drawable/ciri</item>
+        <item>@drawable/yennefer</item>
+    </array>
+
+    <string-array name="names">
+        <item>Geralt de Rivia</item>
+        <item>Cirilla Fiona Elen Riannon</item>
+        <item>Yennefer de Vengerberg</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Geralt de Rívia (em polonês: Geralt z Rivii) é o protagonista da série
+            The Witcher de Andrzej Sapkowski e suas adaptações (como os jogos da CD
+            Projekt RED), onde exerce a função de bruxo. Ele apareceu pela primeira vez no
+            conto O Bruxo, que mais tarde gerou uma série de romances
+            intitulada A Saga do Bruxo Geralt de Rívia. Sua última aparição se deu em
+            Blood and Wine, uma história adicional do aclamado game The Witcher 3
+            : Wild Hunt.</item>
+        <item>Cirilla Fiona Elen Riannon, rainha de Cintra, princesa de Brugge e
+            duquesa de Sodden, herdeira de Inis Ard Skellig e Inis An Skellig,
+            soberana de Attre e Abb Yarra. Conhecida como Leoazinha de Cintra ou para
+            os íntimos, Ciri, nasceu em 1253 durante o festival Belleteyn. Ela é
+            filha única de Pavetta, a princesa de Cintra, e Duny, o Ouriço de Erlenwald.
+            E neta da rainha Calanthe. Ciri também é ligada pelo Destino com o bruxo Geralt de Rívia.</item>
+        <item>Yennefer de Vengerberg (em polonês: Yennefer z Vengerbergu) é
+            uma feiticeira que viveu na cidade de Vengerberg, capital de Aedirn,
+            tendo nascido em Belleteyn no ano de 1173. Ela é o grande amor
+            do bruxo Geralt de Rívia e uma figura materna para Ciri, além de
+            ser uma amiga próxima de Triss Merigold.
+      </item>
+    </string-array>
+</resources>
